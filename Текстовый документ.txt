@@ -1,0 +1,15 @@
+https://github.com/maxaon09/ipk_MN.git
+SSH:    git@github.com:maxaon09/ipk_MN.git
+
+
+echo "# ipk_MN" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/maxaon09/ipk_MN.git
+git push -u origin main
+
+git remote add origin https://github.com/maxaon09/ipk_MN.git
+git branch -M main
+git push -u origin main
